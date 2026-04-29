@@ -1,2 +1,2 @@
-# guessin_game
+# guessing_game
 A very simple guessing game written in Rust
